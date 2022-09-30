@@ -1,5 +1,5 @@
 import React from 'react';
-import {Navbar, Who, Blog, Header} from './components';
+import {Navbar, Who, Blog, Header, Current, Studreviews, Awards} from './components';
 import './App.css';
 
 const App = () => {
@@ -10,6 +10,10 @@ const App = () => {
                 <Header/>
             </div>
             <Who/>
+            <Blog/>
+            <Current/>
+            <Studreviews/>
+            <Awards/>
         </div>
     )
 }
