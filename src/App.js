@@ -10,7 +10,6 @@ const App = () => {
                 <Header/>
             </div>
             <Who/>
-            <Blog/>
             <Current/>
             <Studreviews/>
             <Awards/>
