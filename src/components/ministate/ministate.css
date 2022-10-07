@@ -1,0 +1,15 @@
+.ministate-container {
+    display: flex;
+    margin: 3rem;
+    padding: 2rem;
+    justify-content: center;
+}
+
+.ministate-container-statement {
+    color: rgb(83, 26, 119);
+    font-size: 25px;
+    font-family: var(--font-family);
+    padding: 1rem;
+    border-style: solid;
+    border-color: var(--gradient-text);
+}
